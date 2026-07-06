@@ -142,15 +142,8 @@ La base de données relationnelle est construite sur **Microsoft SQL Server** et
 
 ## 👥 Auteurs
 
-Ce projet a été réalisé par le **Groupe 12** de la LST Informatique :
-
-- **AGUELLOUL Mouad**
-- **EDDAHANI Ouissal**
-- **BOURTI Ayoub**
-- **DAHIBI Wissal**
-- **AGAZZAR Amina**
-
-**Encadré par :** Pr. IDRISSI Najlae  
+Ce projet a été **réalisé par : AGUELLOUL Mouad**
+**Encadré par : Pr. IDRISSI Najlae**
 *Année Universitaire : 2024-2025 (Faculté des Sciences et Techniques, Université Sultan Moulay Slimane)*
 
 ---
