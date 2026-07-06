@@ -145,6 +145,7 @@ La base de données relationnelle est construite sur **Microsoft SQL Server** et
 Ce projet a été **réalisé par : AGUELLOUL Mouad**
 
 **Encadré par : Pr. IDRISSI Najlae**
+
 *Année Universitaire : 2024-2025 (Faculté des Sciences et Techniques, Université Sultan Moulay Slimane)*
 
 ---
