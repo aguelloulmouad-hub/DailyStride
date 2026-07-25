@@ -30,7 +30,6 @@
 ## 🚀 Présentation
 
 **DailyStride** est une application de bureau intuitive développée en **C# (.NET)** dans le cadre d'un mini-projet universitaire. Son ambition principale est de fournir un environnement centralisé facilitant la planification, le suivi et la structuration des activités quotidiennes, qu'elles soient personnelles ou professionnelles.
-
 Face aux exigences croissantes de la vie moderne, DailyStride permet d'organiser ses objectifs en sous-tâches, de suivre son avancement grâce à des statistiques visuelles, et de ne jamais manquer une échéance grâce à un système intelligent de rappels et de notifications.
 
 ### Objectifs du Projet
